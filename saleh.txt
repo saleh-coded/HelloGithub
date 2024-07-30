@@ -1,2 +1,2 @@
-My Name
-Age
+My Name: sam
+Age: 22
